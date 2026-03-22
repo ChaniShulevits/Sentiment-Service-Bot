@@ -57,7 +57,7 @@ The project utilizes Matplotlib to transform raw conversation logs into actionab
 
 # How to Run
 
-1. Open the Sentiment_Service_Bot.ipynb in Jupyter Notebook or VS Code.
+1. Open the recipes.ipynb in Jupyter Notebook or VS Code.
 2. Ensure you have a valid Google Gemini API Key configured.
 3. Run the cells to start the interactive chat.
 4. Type your messages and end the chat by typing "exit" or "quit".
