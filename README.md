@@ -6,7 +6,7 @@ This project is a sophisticated Virtual Service Bot developed in a Jupyter Noteb
 ---
 
 # Project Overview
--
+
 The Sentiment Service Bot simulates a real-world customer service scenario. It handles live communication, maintains session memory, and performs an "Emotional Audit" to visualize the quality of the interaction. 
 
 The project demonstrates a full implementation of the following core topics:
